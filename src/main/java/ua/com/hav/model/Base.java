@@ -11,8 +11,9 @@ public class Base {
 
     {
         add(new Pet("Kesha", 1));
-        add(new Pet("Stepashka", 3));
+        add(new Pet("Stepa", 3));
         add(new Pet("Gera", 5));
+        add(new Pet("Layka", 4));
     }
         private int key;
 
